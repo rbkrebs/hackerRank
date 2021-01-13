@@ -23,7 +23,6 @@ public class JavaLoopsII {
             loopJavaII(a,b,n);
             System.out.println("");
         }
-
         in.close();
 
     }
