@@ -1,3 +1,3 @@
 # hackerRank
 
-HckerRank challenges. Enjoy!
+HackerRank challenges. Enjoy!
